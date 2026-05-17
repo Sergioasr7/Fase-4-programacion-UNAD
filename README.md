@@ -1,5 +1,6 @@
 # Fase-4-programacion-UNAD
 Fase 4 componente practico programacion
+Sergio Adrian Sanchez
 # Sistema Integral de Gestión de Clientes, Servicios y Reservas
 
 Proyecto desarrollado en Python aplicando:
@@ -11,4 +12,3 @@ Proyecto desarrollado en Python aplicando:
 - Abstracción
 - Manejo avanzado de excepciones
 - Logs de errores
-Estudiante Sergio Sanchez Programacion UNAD
